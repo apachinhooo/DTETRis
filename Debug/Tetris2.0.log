@@ -1,0 +1,17 @@
+﻿  Tetris.cpp
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(111,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(118,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(118,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(119,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(119,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(123,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(130,33): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(210,51): warning C4305: =: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(244,33): warning C4305: =: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(261,39): warning C4305: =: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(362,24): warning C4305: =: усечение из "double" в "float"
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(371,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(371,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(377,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\НИКИТА\source\repos\TetrisFinally\Tetris2.0\Tetris.cpp(377,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Tetris2.0.vcxproj -> C:\Users\НИКИТА\Source\Repos\TetrisFinally\Debug\Tetris2.0.exe
